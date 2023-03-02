@@ -1,10 +1,5 @@
 nasilsin bugun 
 v3
-
-bugun cok dersimiz var
-x+y=17;
-
-conflict islemi
-v5
-v6
+conflict calismasi
+v7
 
