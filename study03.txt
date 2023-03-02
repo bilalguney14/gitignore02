@@ -1,2 +1,4 @@
 nasilsin bugun 
 v3
+remote da conflict 
+v7
