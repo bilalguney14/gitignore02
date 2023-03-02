@@ -2,4 +2,6 @@ nasilsin bugun
 v3
 conflict calismasi
 v7
+github a uyari geliyor mu
+v8
 
