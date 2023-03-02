@@ -1,2 +1,4 @@
 nasilsin bugun 
 v3
+bugun cok dersimiz var
+x+y=17;
